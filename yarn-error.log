@@ -1,0 +1,35 @@
+Arguments: 
+  E:\nodejs\node.exe C:\Users\棋\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add pubsub-js
+
+PATH: 
+  E:\jdk\Java\jdk-11.0.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\vscode\Microsoft VS Code\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\nodejs\;E:\Git\cmd;E:\Ruby30-x64\bin;E:\python\Python36-32\Scripts\;E:\python\Python36-32\;E:\jdk\Java\jdk-11.0.2\bin;C:\Users\棋\AppData\Local\Microsoft\WindowsApps;C:\Users\棋\AppData\Roaming\npm;E:\MongoDB\Server\4.4\bin;C:\Users\棋\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.4
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\棋\WeChatProjects\wangYiYun1\package.json: Unexpected token } in JSON at position 49
+      at JSON.parse (<anonymous>)
+      at C:\Users\棋\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\棋\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\棋\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "wangyiyun1",
+    "version": "1.0.0",
+  
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
